@@ -11,12 +11,12 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://webrtc.github.io/samples/*"],
+      "matches": ["https://myongno.github.io/webrtc-samples/*"],
       "js": ["content-script.js"]
     }
   ],
   "permissions": [
     "desktopCapture",
-    "https://webrtc.github.io/samples/*"
+    "https://myongno.github.io/webrtc-samples/*"
   ]
 }
