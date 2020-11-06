@@ -33,6 +33,7 @@ audio {
 }
 
 body {
+  background-color: white;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   margin: 0;
